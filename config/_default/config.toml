@@ -1,4 +1,4 @@
-baseurl = "https://docs.couservio.de"
+baseurl = "https://docs.courservio.de"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

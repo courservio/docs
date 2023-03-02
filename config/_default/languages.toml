@@ -3,6 +3,7 @@
   contentDir = "content/de"
   weight = 10
   [de.params]
+    baseURL = 'https://docs.courservio.de'
     languageISO = "DE"
     languageTag = "de-DE"
 
@@ -11,6 +12,7 @@
   contentDir = "content/en"
   weight = 15
   [en.params]
+    baseURL = 'https://docs.courservio.com'
     languageISO = "EN"
     languageTag = "en-US"
 
